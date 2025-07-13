@@ -4,7 +4,7 @@ This is a simple Java-based CRUD (Create, Read, Update, Delete) application usin
 
 ---
 
-## 1] Technologies Used:
+## 1] ⚙ Technologies Used:
 
 - Java 1.8
 - Hibernate 5.4.33.Final
@@ -96,9 +96,11 @@ Email: shrutithorat767@gmail.com
 
 GitHub: shruti-thorat0715
 
-## ScreenShots Of Outputs:
+## 📷ScreenShots Of Outputs:
 
 <img width="1366" height="768" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/943425ef-277f-4b03-a55d-6f151547a2d9" />
+
+## Enjoy using the Hibernate_CRUD Oeration!😊🚀
 
 
 
