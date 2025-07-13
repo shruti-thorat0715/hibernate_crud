@@ -98,6 +98,11 @@ GitHub: shruti-thorat0715
 
 ## ScreenShots Of Outputs:
 
+<img width="1366" height="768" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/943425ef-277f-4b03-a55d-6f151547a2d9" />
+
+
+
+
 
                      
 
