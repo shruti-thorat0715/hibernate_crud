@@ -17,20 +17,35 @@ This is a simple Java-based CRUD (Create, Read, Update, Delete) application usin
 ##  📂 Project Directory Structure
 
 hibernate_crud/
-├── pom.xml                           
+
+├── pom.xml 
+
 ├── src/
+
 │   └── main/
+
 │       ├── java/
+
 │       │   ├── main/
-│       │   │   └── MainApp.java      
+
+│       │   │   └── MainApp.java  
+
 │       │   ├── model/
-│       │   │   ├── Country.java       
-│       │   │   └── Region.java       
+
+│       │   │   ├── Country.java  
+
+│       │   │   └── Region.java   
+
 │       │   └── util/
+
 │       │       └── HibernateUtil.java 
+
 │       └── resources/
-│           └── hibernate.cfg.xml      
-├── target/                            
+
+│           └── hibernate.cfg.xml 
+
+├── target/    
+
 └── README.md     
 
 ## 2] Create Postgres Database:
@@ -72,6 +87,7 @@ This project is ideal for beginners learning Hibernate and how ORM maps Java cla
 
 
 ##  📞Contact:
+
 For any questions or feedback, feel free to reach out:
 
 Your Name : shruti thorat
