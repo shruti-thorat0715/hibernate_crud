@@ -54,7 +54,9 @@ hibernate_crud/
 
 ## 2] Create Postgres Database:
 
+```
 CREATE DATABASE hibernate_crud;
+```
 
 ## Update Database Credentials:
 ```
