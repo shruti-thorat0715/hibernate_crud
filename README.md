@@ -57,17 +57,15 @@ hibernate_crud/
 CREATE DATABASE hibernate_crud;
 
 ## Update Database Credentials:
-
+```
  <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
-
 
 <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/hibernate_crud</property>
 
-
 <property name="hibernate.connection.username">postgres</property>  
 
-
 <property name="hibernate.connection.password">shrutu</property>
+```
 
  ##  3.📞Contact:
 For any questions or feedback, feel free to reach out:
